@@ -1,4 +1,4 @@
-# Iris Species Classification Analysis 🌸🤖
+# Iris Species Classification Analysis 🤖
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Shayan-Nami/Iris-Classification-Analysis/blob/main/Iris_pca_lda_qda.ipynb)
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=flat&logo=python)
@@ -73,3 +73,4 @@ jupyter notebook Iris_pca_lda_qda.ipynb
 
 👤 Author
 Shayan Abdollahi Nami
+
